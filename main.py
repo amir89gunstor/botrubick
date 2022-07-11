@@ -8,7 +8,7 @@ import random
 from random import choice
 
 #شناسه اکانت
-bot = Bot("AppName", auth="nxyptaepxuccurgxhhtnovbpeutnekjc")
+bot = Bot("AppName", auth="knihtzafthjovnqugazevoecixnwqqnu")
 #......
 #شناسه گروه
 target = "g0Be5VF07c80ba9dc22b2e195e235456"
