@@ -47,7 +47,6 @@ while True:
 
 					elif msg.get("text").startswith("سین بزن"):
 						while True:
-							sleep(1)
 							matntabb = list(matnsingz)
 							randomli = choice(matntabb)
 							writelin = open("TARGET_SINZAN.txt","w",encoding='utf-8').write(str(randomli))
